@@ -1,0 +1,14 @@
+Que son las Variables?
+Es una fomra de darle un valor a algo, por ejemplo si yo te digo que animal es igual a pez, cuando este trabajando en el codigo y ponga animal el valor va a ser pez.
+
+Que son los Strings??
+todo lo que sea texto, pueden ser palabras, nombres, lo que sea siempre y cuando este entre comillas.
+
+Que son las Funciones (argumentos, "return")?
+los argumentos son como las variables pero adentro de la funcion osea que si yo digo que animal = pez, adentro de la funcion animal siempre va a ser igual a pez. la declaracion return es la que me deja mostrar el resultado de la funcion.
+
+Que son las Declaraciones "If"?
+son las que te muestran un resultado si se cumple una condicion, por ejemplo si te portas bien te doy un caramelo, si te portas mal no te doy nada. depende como te portes si te voy a dar o no el caramelo.
+
+Que son los valores Booleanos ("true", "false")?
+son valores que siempre son opuestos como decir Si o NO. Es como tener dos caminos y elegir uno o el otro.
