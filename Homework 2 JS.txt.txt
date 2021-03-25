@@ -1,0 +1,3 @@
+for: For en ingles significa "para", entonces escribimos que para los siguientes condiciones vamos a pedirle a la maquina que vaya probando todas las posibilidades, dentro de las condiciones que le pusimos, hasta llegar al resultado que queremos.
+
+&&,||,!: Estos se llaman operadores logicos y es la forma de escribir y, o, not (negacion) dentro de cualquier funcion.
